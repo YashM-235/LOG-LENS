@@ -1,5 +1,5 @@
 
-#📊 Web Log Analyzer with Machine Learning
+# 📊 Web Log Analyzer with Machine Learning
 This is a Flask-based web application designed to analyze web server log files using a combination of traditional data visualization and machine learning techniques. The application supports log file upload, data preprocessing, visual analytics, classification, clustering, anomaly detection, and downloadable PDF reports.
 
 🚀 Features
