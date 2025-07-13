@@ -60,7 +60,7 @@ project/
 ✅ How to Run
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/log-analyzer-flask.git
+git clone https://github.com/YashM-235/log-analyzer-flask.git
 cd log-analyzer-flask
 
 Step 2: Install Dependencies    pip install -r requirements.txt
